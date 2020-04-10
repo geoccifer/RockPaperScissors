@@ -31,7 +31,6 @@ def main():
             print("SCISSORS versus...")
 
 # Display what the computer chose:
-
         randomNumber = random.randint(1, 3)
         if randomNumber == 1:
             computerMove = "r"
